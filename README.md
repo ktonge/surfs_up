@@ -6,11 +6,12 @@ For this week's lesson in our bootcamp, we were tasked with helping an hypotheti
 In our analysis we took sqlite weather data information and manipulated it to focus on June and December as our representatives for summer and winter months.  
 ### Summer
 The maximum temperature we saw in the data was 85 degrees, with the mean temperature being 74.9 degrees and a standard deviation of 3.2 degrees.  This is a good sign for a surf shop.  
-[photo]
+![june_desc](https://github.com/ktonge/surfs_up/blob/main/Challenge/june_desc.png)
 
 ### Winter
 The information for December was very similar.  The mean temperature was 71 degrees, with a standard deviation of 3.7.  This does show that there is potentially more variance in weather in the winter months.  The minimum temperature being 56 degrees, however its important to take into account that generally the minimum temperature for the day happens at nighttime.
-[photo]
+
+![dec_desc](https://github.com/ktonge/surfs_up/blob/main/Challenge/dec_desc.png)
 
 ### Comparing the Seasons
 Overall,  there being consistently comfortable weather in both June and December would be beneficial to a combination ice-cream shop and surf shop.  
@@ -23,7 +24,12 @@ Overall, the weather data we looked at had positive results for the business pro
 
 ### Additional Queries
 With the data given to us,  I additionally looked into parcipitation information.  From what I understand winter in tropical climated like Hawaii typically doesn't look as cold as say, the weather in my local New England, but it can look more like a wet season and dry season. This was at least somewhat supported by the data
-[photos]
+
+#### June Precipitation
+![june_prcp_desc](https://github.com/ktonge/surfs_up/blob/main/Challenge/june_prcp_desc.png)
+#### December Precipitation
+![dec_prcp_desc](https://github.com/ktonge/surfs_up/blob/main/Challenge/dec_prcp_desc.png)
+
 There were significantly more differences between precipitation in June and December than there were between temperature.  The mean was almost twice as high in December (.21, versus .13 in June).  The maximum precipitation was 6.42 in December, versus 4.43 in June.  
 
 ### Further Research
